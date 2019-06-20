@@ -7,6 +7,10 @@ The final Approval will be granted at the GA4GH Steering Committee. The deadline
 
 ## 2019 Handover Deadlines
 2019-08-14 for final approval at the 2019-10-23 Steering Committee (Final Documents passed on by 2019-10-07)
+2019-11-04 for final approval at the 2020-01-TBC Steering Committee (Final Documents passed on by 2020-01-07) TBC
+
+## 2020 Handover Deadlines
+2020-01-20 for final approval at the 2019-03-22 Steering Committee (Final Documents passed on by 2020-03-12)
 
 
 
