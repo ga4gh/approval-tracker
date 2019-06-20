@@ -6,7 +6,7 @@ Please contact your Work Stream Programme Manager for further details of the GA4
 The final Approval will be granted at the GA4GH Steering Committee. The deadline for handover of documents is at least 10 weeks prior to the Steering Committee
 
 ## 2019 Handover Deadlines
-2019-08-14 for final approval at the 2019-10-23 Steering Committee
+2019-08-14 for final approval at the 2019-10-23 Steering Committee (Final Documents passed on by 2019-10-07)
 
 
 
