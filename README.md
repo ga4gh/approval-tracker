@@ -15,8 +15,9 @@ There are submission windows during which products can be submitted for approval
 | 2019-08-15  | 2019-11-04  | 2020-01-07 |  2020-01-TBC |   |
 | 2019-11-05  | 2020-01-20  | 2020-03-12 | 2019-03-22 |   |
 
-
-
+1. **Open - Close**: dates when the Product Approval Form, and supporting forms and implementations, are recieved by the Secretariat
+2. **Final Document Submission**: date by which the sub-committee approvals have been obtained, and presentations for Steering Committee and final changes have been made to the specifications
+3. **Steering Committee Meeting**: date of the GA4GH Steering Committee at which the product announcement will be made
 
 
 
