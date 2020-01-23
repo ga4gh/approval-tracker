@@ -11,10 +11,10 @@ There are submission windows during which products can be submitted for approval
 
 | Open  | Close  | Final Document Submission | Steering Committee Meeting  |   |
 |---|---|---|---|---|
-| 2019-08-20  | 2019-11-04  | 2020-01-06 |  2020-01-22 |   |
-| 2019-11-05  | 2020-01-20  | 2020-03-06 | 2020-03-22 |   |
-| 2020-01-21  | 2020-04-03  | 2020-06-01 | 2020-06 TBC  |   |
+| 2020-01-21  | 2020-04-09  | 2020-06-22 | 2020-07-08  |   |
 | 2020-04-16  | 2020-07-12  | 2020-09-12 | 2020-09-30  |   |
+| 2020-07-13  | 2020-10-15  | 2021-01-05 TBC | 2021-01-20 TBC  |   |
+
 
 1. **Open - Close**: dates when the Product Approval Form, and supporting forms and implementations, are recieved by the Secretariat
 2. **Final Document Submission**: date by which the sub-committee approvals have been obtained, and presentations for Steering Committee and final changes have been made to the specifications
