@@ -11,6 +11,7 @@ There are submission windows during which products can be submitted for approval
 
 | Open  | Close  | Final Document Submission | Steering Committee Meeting  |   |
 |---|---|---|---|---|
+| 2025-07-14  | 2025-08-15  | 2025-09-28 | 2025-10-29  |   |
 | 2025-03-01  | 2025-04-02  | 2025-03-28 | 2025-05-12  |   |
 | 2023-08-01  | 2023-11-02  | 2024-01-15 | 2024-01-31  |   |
 | 2020-04-16  | 2020-07-12  | 2020-09-12 | 2020-09-30  |   |
